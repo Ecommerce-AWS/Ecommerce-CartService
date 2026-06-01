@@ -1,4 +1,4 @@
-﻿# Ecommerce-CartService
+# Ecommerce-CartService
 
 Distributed cart, Redis cluster, session management
 
